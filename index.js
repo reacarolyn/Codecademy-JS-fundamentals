@@ -207,4 +207,5 @@ const toEmoticon = equivalent => {
             return '<3';
         default:
             return '|_(* ~ *)_|';
+    }
     };
